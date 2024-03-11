@@ -1,0 +1,6 @@
+c:\Users\phlga\Documents\dev\Blog\EFBalta\Blog\obj\Debug\net8.0\Blog.csproj.AssemblyReference.cache
+c:\Users\phlga\Documents\dev\Blog\EFBalta\Blog\obj\Debug\net8.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\phlga\Documents\dev\Blog\EFBalta\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
+c:\Users\phlga\Documents\dev\Blog\EFBalta\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
+c:\Users\phlga\Documents\dev\Blog\EFBalta\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
+c:\Users\phlga\Documents\dev\Blog\EFBalta\Blog\obj\Debug\net8.0\Blog.sourcelink.json
