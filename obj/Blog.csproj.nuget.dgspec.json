@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj": {}
+    "C:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "c:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj": {
+    "C:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "c:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj",
+        "projectPath": "C:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\phlga\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\obj\\",
+        "outputPath": "C:\\Users\\phlga\\Documents\\dev\\Blog\\EFBalta\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phlga\\AppData\\Roaming\\NuGet\\NuGet.Config",
